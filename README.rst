@@ -1,14 +1,12 @@
 RoboBrowser: Your friendly neighborhood web scraper
 ===============================================
 
-.. image:: https://badge.fury.io/py/robobrowser.png
-    :target: http://badge.fury.io/py/robobrowser
+To install this fork:
 
-.. image:: https://travis-ci.org/jmcarp/robobrowser.png?branch=master
-        :target: https://travis-ci.org/jmcarp/robobrowser
+.. code-block::
 
-.. image:: https://coveralls.io/repos/jmcarp/robobrowser/badge.png?branch=master
-        :target: https://coveralls.io/r/jmcarp/robobrowser
+    pip install git+https://github.com/humanconnectome/robobrowser --upgrade
+
 
 Homepage: `http://robobrowser.readthedocs.org/ <http://robobrowser.readthedocs.org/>`_
 
